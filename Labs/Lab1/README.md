@@ -50,7 +50,7 @@ Follow the instructions in [here](notes/anaconda-vscode.md)
 
 ## Programmation
 
-Practise the exercises in the [notebook](lab1.ipynb)
+Practise the exercises in the [notebook](GUCKERT-GARDOIS-Lab1.ipynb)
 
 ## Tests and documentation
 
