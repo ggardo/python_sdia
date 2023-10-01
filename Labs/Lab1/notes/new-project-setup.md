@@ -72,7 +72,7 @@ Here is another opinionated suggestion, using  `conda` as a Python package manag
     │       └── index.rst
     ├── notebooks  # sugar used at best to showcase your project
     │   ├── GUCKERT-GARDOIS-Lab1.ipynb
-    │   └── GUCKERT-GARDOIS-Lab2.ipynb
+    │   └── GUCKERT-Lab2.ipynb
     ├── .vscode  # Visual Studio Code local configuration
     │   ├── workspace.code-snippets  # custom snippets
     │   ├── extensions.json  # recommended extensions
